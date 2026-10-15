@@ -1,4 +1,4 @@
-const appName = "Git Lab";
-const theme = "light";
+const appName = "Redesign App";
+const theme = "dark";
 
 console.log(appName, theme);
